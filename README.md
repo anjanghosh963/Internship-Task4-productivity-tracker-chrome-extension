@@ -2,18 +2,6 @@
 
 A comprehensive Chrome extension designed to monitor, analyze, and report on your web browsing habits to boost productivity. This tool helps you understand where your time is spent online and provides insights to improve your focus.
 
----
-
-## 📸 Screenshots
-*Here you can add a screenshot of your extension's main dashboard or popup.*
-
-<img width="433" height="697" alt="Task-4-1" src="https://github.com/user-attachments/assets/678ba393-97b9-4f82-8625-8ff7536cb56f" /> <img width="405" height="672" alt="Task-4-2" src="https://github.com/user-attachments/assets/9369a351-c9cc-4dcf-92d8-e8bcfeb4afe4" />
-
-<img width="1920" height="1031" alt="Task-4-3" src="https://github.com/user-attachments/assets/74b80189-c377-46a6-82df-deb42409c03c" />
-
-<img width="1920" height="1029" alt="Task-4-4" src="https://github.com/user-attachments/assets/14721964-0202-4e93-8d41-3cdd41442fc8" />
-
-<img width="1920" height="1032" alt="Task-4-5" src="https://github.com/user-attachments/assets/1aadb540-188b-4edf-9075-00c7fbfb19de" />
 
 ---
 
@@ -68,3 +56,17 @@ The extension's logic is split across several key files:
 -   **`popup.js`**: Contains the JavaScript logic for the user interface, handling user interactions and displaying data.
 -   **`background.js`**: A service worker that runs in the background to manage time tracking, monitor tab changes, and handle core logic.
 -   **`content.js`**: A script injected into web pages to detect user activity (like scrolling or typing) to determine if you are active or inactive.
+
+
+---
+
+## 📸 Screenshots
+*Here you can add a screenshot of your extension's main dashboard or popup.*
+
+<img width="433" height="697" alt="Task-4-1" src="https://github.com/user-attachments/assets/678ba393-97b9-4f82-8625-8ff7536cb56f" /> <img width="405" height="672" alt="Task-4-2" src="https://github.com/user-attachments/assets/9369a351-c9cc-4dcf-92d8-e8bcfeb4afe4" />
+
+<img width="1920" height="1031" alt="Task-4-3" src="https://github.com/user-attachments/assets/74b80189-c377-46a6-82df-deb42409c03c" />
+
+<img width="1920" height="1029" alt="Task-4-4" src="https://github.com/user-attachments/assets/14721964-0202-4e93-8d41-3cdd41442fc8" />
+
+<img width="1920" height="1032" alt="Task-4-5" src="https://github.com/user-attachments/assets/1aadb540-188b-4edf-9075-00c7fbfb19de" />
