@@ -7,7 +7,7 @@ A comprehensive Chrome extension designed to monitor, analyze, and report on you
 ## 📸 Screenshots
 *Here you can add a screenshot of your extension's main dashboard or popup.*
 
-<img width="433" height="697" alt="Task-4-1" src="https://github.com/user-attachments/assets/678ba393-97b9-4f82-8625-8ff7536cb56f" /><img width="405" height="672" alt="Task-4-2" src="https://github.com/user-attachments/assets/9369a351-c9cc-4dcf-92d8-e8bcfeb4afe4" />
+<img width="433" height="697" alt="Task-4-1" src="https://github.com/user-attachments/assets/678ba393-97b9-4f82-8625-8ff7536cb56f" /> <img width="405" height="672" alt="Task-4-2" src="https://github.com/user-attachments/assets/9369a351-c9cc-4dcf-92d8-e8bcfeb4afe4" />
 
 <img width="1920" height="1031" alt="Task-4-3" src="https://github.com/user-attachments/assets/74b80189-c377-46a6-82df-deb42409c03c" />
 
