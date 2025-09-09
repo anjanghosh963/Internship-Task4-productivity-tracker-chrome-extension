@@ -70,3 +70,5 @@ The extension's logic is split across several key files:
 <img width="1920" height="1029" alt="Task-4-4" src="https://github.com/user-attachments/assets/14721964-0202-4e93-8d41-3cdd41442fc8" />
 
 <img width="1920" height="1032" alt="Task-4-5" src="https://github.com/user-attachments/assets/1aadb540-188b-4edf-9075-00c7fbfb19de" />
+
+# Linkedin post:- https://www.linkedin.com/posts/anjanghosh963_javascript-chromeextension-webdevelopment-activity-7369602717108850688-ezug?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiknjEB-QGuqv48T6vBmVagL9pwU-i1eAU
